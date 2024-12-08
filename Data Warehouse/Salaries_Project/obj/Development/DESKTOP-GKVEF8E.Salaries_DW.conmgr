@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-GKVEF8E.Salaries_DW"
+  DTS:DTSID="{FA7EEAE6-50C4-490E-800A-BFF53F890DEA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-GKVEF8E;Initial Catalog=Salaries_DW;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Salaries_Project-{FA7EEAE6-50C4-490E-800A-BFF53F890DEA}DESKTOP-GKVEF8E.Salaries_DW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
